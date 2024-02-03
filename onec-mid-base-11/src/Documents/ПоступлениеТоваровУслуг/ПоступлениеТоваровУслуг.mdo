@@ -156,7 +156,7 @@
     <name>Нет_КонтактноеЛицо</name>
     <synonym>
       <key>ru</key>
-      <value>Нет контактное лицо</value>
+      <value>Контактное лицо</value>
     </synonym>
     <type>
       <types>CatalogRef.Нет_КонтактныеЛица</types>
